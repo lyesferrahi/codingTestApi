@@ -18,10 +18,6 @@ public class Category {
         return id;
     }
 
-    public Category(String name) {
-        this.name = name;
-    }
-
     public void setId(Long id) {
         this.id = id;
     }
